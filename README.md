@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1944-truncate-sentence) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
