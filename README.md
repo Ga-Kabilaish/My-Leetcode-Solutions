@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1944-truncate-sentence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1944-truncate-sentence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3567-convert-date-to-binary](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Math
 |  |
