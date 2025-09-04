@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3567-convert-date-to-binary](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
