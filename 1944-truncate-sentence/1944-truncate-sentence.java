@@ -1,17 +1,14 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        
-    StringBuilder sb=new StringBuilder();
-        
-        String[] a=s.split(" ");
-        for(String l:a){
-            sb.append(l).append(" ");
-            k--;
-            if(k==0){
-                return sb.toString().trim();
+        int i,count=0;
+        for(i=0;i<s.length();i++){
+            if(s.charAt(i)==' '){
+                count++;
+            }
+            if(count==k){
+                break;
             }
         }
-        return sb.toString().trim();
-        
-        
-    }}
+        return s.substring(0,i);
+    }
+}
