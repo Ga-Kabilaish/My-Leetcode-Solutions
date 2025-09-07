@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1944-truncate-sentence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3567-convert-date-to-binary](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
