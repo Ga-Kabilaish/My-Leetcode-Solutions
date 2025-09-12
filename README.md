@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1944-truncate-sentence) |
+| [2048-build-array-from-permutation](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [2048-build-array-from-permutation](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
