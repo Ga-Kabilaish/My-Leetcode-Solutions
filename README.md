@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3194-find-words-containing-character](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3194-find-words-containing-character](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Ga-Kabilaish/My-Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Math
 |  |
